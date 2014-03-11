@@ -1,6 +1,10 @@
 @charset "utf-8";
 
 
+::-moz-selection{background:#018de5;text-shadow:none}
+
+::selection{background:#018de5;text-shadow:none}
+
 /* Misc.
 ****************************************************************/
 .clearfix:before,
